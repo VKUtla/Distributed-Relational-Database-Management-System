@@ -1,0 +1,3 @@
+dataBase_Location,dataBase_Name,table_Name,columns,columnType
+local,restoredatabase,recoveryTable,"['id', 'week']","['int', 'string']"
+,,,,
